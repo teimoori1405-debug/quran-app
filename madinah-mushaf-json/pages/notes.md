@@ -1,0 +1,1 @@
+quran-pages files are based on Github repo zonetecde/mushaf-layout/ and quran metadata from risan/quran-json, then reworked for general use.
